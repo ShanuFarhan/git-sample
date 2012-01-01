@@ -1,0 +1,42 @@
+[33mcommit d192e3a4d2806df0c6e506908ecf8bec6e41e3d3[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 08:25:38 2012 +0530
+
+    index modified
+
+[33mcommit cff3eab4a2f88cc8e9a06b14363b110f92d96928[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 08:20:43 2012 +0530
+
+    hey modified
+
+[33mcommit 9238f2d6daa1d2da2d72aedc296010a589df337c[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: d9a5e97 2251c88
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 08:16:31 2012 +0530
+
+    WIP on master: d9a5e97 hey file edited
+
+[33mcommit 2251c88d53a4b6b01b68ede4b41258cefd1930fb[m
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 08:16:31 2012 +0530
+
+    index on master: d9a5e97 hey file edited
+
+[33mcommit d9a5e973488ed9df71bf5c3f91665b2d90abca18[m
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 08:00:52 2012 +0530
+
+    hey file edited
+
+[33mcommit 86a9f4888b974829d241f6205466c6b5ee6ac155[m
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 07:50:25 2012 +0530
+
+    second file
+
+[33mcommit 683e926be24a2b8fd4bf05a5b95359dde598940d[m
+Author: Shanu Farhan <shanumet@gmail.com>
+Date:   Sun Jan 1 07:22:31 2012 +0530
+
+    initial
